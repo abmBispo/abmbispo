@@ -9,6 +9,9 @@
 [<img align="left" alt="Alan Borges | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Alan Borges | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][gmail]
 
+
+<br />
+<br />
 Viva Cristo Rei!
 
 [linkedin]: https://www.linkedin.com/in/abmbispo/
