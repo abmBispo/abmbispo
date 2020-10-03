@@ -6,7 +6,10 @@
 - 💬 I'm really open to feedback to my personal projects, so I appreciate if you help me te become a better software developer 😄. 
 - 📫 You can reach me out at email or Linkedin:
 
-[<img align="left" alt="Alan Borges | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/abmbispo/]
-[<img align="left" alt="Alan Borges | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][mailto:sr.alan.bispo@gmail.com]
+[<img align="left" alt="Alan Borges | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Alan Borges | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/gmail.svg" />][gmail]
 
 Viva Cristo Rei!
+
+[linkedin]: https://www.linkedin.com/in/abmbispo/
+[gmail]: mailto:sr.alan.bispo@gmail.com
