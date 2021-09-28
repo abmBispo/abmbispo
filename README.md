@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at [Solfacil][https://solfacil.com.br/] in development team.
+- 🔭 I’m currently working at [Solfacil][solfacil] in development team.
 - 🌱 I’m currently learning computer science by myself following the standard international curriculum. I left UFMG university to dedicate my free time to studies on programming languages for web, distributed computing, algorithms and databases. 
 - 👯 I’m looking to collaborate on disruptive open source iniciatives using Elixir/Erlang or Ruby.
 - 💬 I'm really open to feedback to my personal projects, so I'd appreciate it if you help me to become a better software developer 😄. 
@@ -16,3 +16,4 @@ Viva Cristo Rei!
 
 [linkedin]: https://www.linkedin.com/in/abmbispo/
 [gmail]: mailto:sr.alan.bispo@gmail.com
+[solfacil]: https://solfacil.com.br/
